@@ -30,7 +30,7 @@ const produitsParDefaut = [
     nom: "Coque de protection",
     prix: "14 €",
     description: "Coque résistante pour protéger le téléphone contre les chocs et rayures.",
-    image: "Coque.jpg",
+    image: "coque.jpg",
     lien: "https://www.amazon.fr/s?k=coque+smartphone",
     categorie: "accessoire"
   },
